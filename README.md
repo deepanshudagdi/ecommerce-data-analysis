@@ -24,27 +24,6 @@ Customer segmentation analysis.
 
 The dataset used in this project is the Online Retail Dataset from Kaggle. It contains transactional data from an online retail store for the years 2009-2011, including information on invoices, products, prices, and customer demographics and I cleaned the dataset using Microsoft Excel 
 
-# Project Structure
-
-ecommerce-data-analysis/
-|
-├── data/
-│   ├── online_retail_cleaned.csv      # Cleaned dataset
-│   ├── schema.sql                     # SQL table schema
-|
-├── scripts/
-│   ├── data_cleaning.ipynb            # Jupyter notebook for cleaning and preparation
-│   ├── sql_queries.sql                # SQL queries for data analysis
-|
-├── dashboards/
-│   ├── ecommerce_analysis.pbix        # Power BI dashboard file
-│   ├── screenshots/
-│       ├── revenue_trends.png         # Screenshot of revenue trends visualization
-│       ├── top_products.png           # Screenshot of top products visualization
-|
-├── README.md                          # Project overview (this file)
-└── LICENSE                            # License for project usage
-
 # Insights
 
 Total Revenue: Insights into the overall financial performance of the e-commerce business.
