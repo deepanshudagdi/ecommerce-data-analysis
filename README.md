@@ -1,10 +1,10 @@
 ## E-commerce Data Analysis with SQL and Power BI
 
-Description
+# Description
 
 This project demonstrates how to analyze e-commerce transactional data using SQL for data cleaning and analysis, and Power BI for creating interactive dashboards. The project focuses on deriving insights relevant to the finance and e-commerce industries by exploring sales performance, customer behavior, and product trends.
 
-Features
+# Features
 
 SQL-based data cleaning and transformation.
 
@@ -20,11 +20,11 @@ Revenue distribution by country.
 
 Customer segmentation analysis.
 
-Dataset
+# Dataset
 
 The dataset used in this project is the Online Retail Dataset from Kaggle. It contains transactional data from an online retail store for the years 2009-2011, including information on invoices, products, prices, and customer demographics and I cleaned the dataset using Microsoft Excel 
 
-Project Structure
+# Project Structure
 
 ecommerce-data-analysis/
 |
@@ -45,7 +45,7 @@ ecommerce-data-analysis/
 ├── README.md                          # Project overview (this file)
 └── LICENSE                            # License for project usage
 
-Insights
+# Insights
 
 Total Revenue: Insights into the overall financial performance of the e-commerce business.
 
@@ -55,7 +55,7 @@ Revenue by Country: Analysis of country-wise sales distribution to identify key 
 
 Customer Segmentation: Grouping customers by purchase behavior to identify high-value segments.
 
-Setup
+# Setup
 
 Prerequisites
 
@@ -63,7 +63,7 @@ Power BI Desktop
 
 SQL Server or any database software (e.g., MySQL, PostgreSQL, SQLite)
 
-Steps
+# Steps
 
 Clone this repository:
 
@@ -75,13 +75,13 @@ Create a database and import the online_retail_cleaned.csv file using the provid
 
 Execute the queries in sql_queries.sql for insights.
 
-Power BI Dashboard:
+# Power BI Dashboard:
 
 Open dashboards/ecommerce_analysis.pbix in Power BI Desktop.
 
 Refresh the data source connection if needed to link to your local or server-hosted database.
 
-Visualizations
+# Visualizations
 
 Example Dashboards
 
@@ -92,15 +92,15 @@ Revenue Trends
 Top Products
 
 
-Contributing
+# Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-License
+# License
 
 This project is licensed under the MIT License.
 
-Contact
+# Contact
 
 For any queries, reach out via GitHub Issues.
 deepanshudagdi@gmail.com
