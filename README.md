@@ -81,8 +81,8 @@ This project is licensed under the MIT License.
 
 # Contact
 
-For any queries, reach out via GitHub Issues.
-deepanshudagdi@gmail.com
-www.deepanshudagdi.com
-linkedin/deepanshudagdi
+For any queries, reach out via GitHub Issues. <br>
+deepanshudagdi@gmail.com <br>
+www.deepanshudagdi.com <br>
+linkedin/deepanshudagdi <br>
 
