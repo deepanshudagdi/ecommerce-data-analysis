@@ -1,4 +1,4 @@
-##E-commerce Data Analysis with SQL and Power BI
+## E-commerce Data Analysis with SQL and Power BI
 
 Description
 
